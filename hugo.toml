@@ -1,5 +1,5 @@
-baseURL = "https://nigel-ong.github.io/nigel-website/"
-# baseURL = "https://adritian-demo.vercel.app/"
+# baseURL = "https://nigel-ong.github.io/nigel-website/"
+baseURL = "https://adritian-demo.vercel.app/"
 # title = "Adritian Demo"
 title = "Nigel Ong"
 languageCode = "en"
