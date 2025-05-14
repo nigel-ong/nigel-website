@@ -85,8 +85,6 @@ sections = [
 ]
 # If you want to display an image logo in the header, you can add it here
 # logo = '/img/hugo.svg'
-########################## TEST
-logo = '/img/gyubee-richmond.jpg'
 
 homepageExperienceCount = 6
 
