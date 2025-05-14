@@ -1,5 +1,6 @@
 # baseURL = "https://nigel-ong.github.io/nigel-website/"
-baseURL = "https://adritian-demo.vercel.app/"
+# baseURL = "https://adritian-demo.vercel.app/"
+baseURL = "https://nigel.ong/"
 # title = "Adritian Demo"
 title = "Nigel Ong"
 languageCode = "en"
@@ -69,8 +70,8 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Adritian - a high performance hugo theme by Adrián Moreno'
-description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
+title = 'Nigel Ong Title!!'
+description = 'Nigel Ong's Personal Site.'
 images = ['/img/og-img.png']
 sections = [
   "showcase",
@@ -84,6 +85,8 @@ sections = [
 ]
 # If you want to display an image logo in the header, you can add it here
 # logo = '/img/hugo.svg'
+########################## TEST
+logo = '/img/gyubee-richmond.jpg'
 
 homepageExperienceCount = 6
 
