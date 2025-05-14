@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://adritian-demo.vercel.app/</link><description>Recent content on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 28 Feb 2025 08:05:05 +0100</lastBuildDate><atom:link href="https://adritian-demo.vercel.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Create your own version of the site</title><link>https://adritian-demo.vercel.app/blog/getting-started/</link><pubDate>Tue, 11 Feb 2025 14:38:33 +0200</pubDate><guid>https://adritian-demo.vercel.app/blog/getting-started/</guid><description>&lt;p>This article is a guide to help you create your own version of the site using &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme">Adritian&lt;/a>. It will cover the main steps to get started with the theme, and how to customize it to your needs.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://nigel.ong/</link><description>Recent content on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 28 Feb 2025 08:05:05 +0100</lastBuildDate><atom:link href="https://nigel.ong/index.xml" rel="self" type="application/rss+xml"/><item><title>Create your own version of the site</title><link>https://nigel.ong/blog/getting-started/</link><pubDate>Tue, 11 Feb 2025 14:38:33 +0200</pubDate><guid>https://nigel.ong/blog/getting-started/</guid><description>&lt;p>This article is a guide to help you create your own version of the site using &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme">Adritian&lt;/a>. It will cover the main steps to get started with the theme, and how to customize it to your needs.&lt;/p>
 &lt;h3 id="creating-a-site">Creating a site&lt;/h3>
 &lt;p>This theme is for the content management system &lt;a href="https://gohugo.io/">Hugo&lt;/a>, so that will be a pre-requirement.
-Make sure that you install the &lt;code>extended&lt;/code> version of Hugo, as the theme uses SCSS for styling, as well as image optimization.&lt;/p></description></item><item><title>Icons</title><link>https://adritian-demo.vercel.app/blog/icons/</link><pubDate>Fri, 28 Feb 2025 08:05:05 +0100</pubDate><guid>https://adritian-demo.vercel.app/blog/icons/</guid><description>&lt;p>The theme has multiple icons available for use.&lt;/p>
+Make sure that you install the &lt;code>extended&lt;/code> version of Hugo, as the theme uses SCSS for styling, as well as image optimization.&lt;/p></description></item><item><title>Icons</title><link>https://nigel.ong/blog/icons/</link><pubDate>Fri, 28 Feb 2025 08:05:05 +0100</pubDate><guid>https://nigel.ong/blog/icons/</guid><description>&lt;p>The theme has multiple icons available for use.&lt;/p>
 &lt;p>You can see them rendered here:&lt;/p>
 &lt;ul>
 &lt;li>
@@ -325,7 +325,7 @@ Make sure that you install the &lt;code>extended&lt;/code> version of Hugo, as t
 &lt;/a>
  &lt;code>tiktok&lt;/code>&lt;/li>
 &lt;/ul>
-&lt;p>You can use them in several ways.&lt;/p></description></item><item><title>Theme shortcodes</title><link>https://adritian-demo.vercel.app/blog/shortcodes/</link><pubDate>Fri, 14 Feb 2025 14:38:33 +0200</pubDate><guid>https://adritian-demo.vercel.app/blog/shortcodes/</guid><description>&lt;p>Shortcodes are a convenient &lt;a href="https://gohugo.io/content-management/shortcodes/">functionality of Hugo&lt;/a>, allowing you to embed templates or layouts within other content.&lt;/p>
+&lt;p>You can use them in several ways.&lt;/p></description></item><item><title>Theme shortcodes</title><link>https://nigel.ong/blog/shortcodes/</link><pubDate>Fri, 14 Feb 2025 14:38:33 +0200</pubDate><guid>https://nigel.ong/blog/shortcodes/</guid><description>&lt;p>Shortcodes are a convenient &lt;a href="https://gohugo.io/content-management/shortcodes/">functionality of Hugo&lt;/a>, allowing you to embed templates or layouts within other content.&lt;/p>
 &lt;p>Some of the example built-in shortcodes are Instagram posts, YouTube videos, QR codes, etc. You can find &lt;a href="https://gohugo.io/content-management/shortcodes/#embedded">the full list in the official docs&lt;/a>.&lt;/p>
 &lt;p>The theme provides custom shortcodes to allow you to customize your landing page as you want:&lt;/p>
 &lt;ul>
@@ -343,7 +343,7 @@ Make sure that you install the &lt;code>extended&lt;/code> version of Hugo, as t
 &lt;li>&lt;code>text-section&lt;/code>: utility shortcode used to render text in some parts of the theme where it would otherwise be full-width, appearing &amp;ldquo;too floaty&amp;rdquo;. See &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme/issues/260">the github issue #260 for context&lt;/a>.&lt;/li>
 &lt;li>&lt;code>spacer&lt;/code>: Adds vertical spacing before the next element.&lt;/li>
 &lt;/ul>
-&lt;p>The shortcodes can be customized with different arguments:&lt;/p></description></item><item><title>Other installation methods</title><link>https://adritian-demo.vercel.app/blog/other-installation-methods/</link><pubDate>Tue, 11 Feb 2025 14:38:33 +0200</pubDate><guid>https://adritian-demo.vercel.app/blog/other-installation-methods/</guid><description>&lt;p>This is a guide that extends the default instructions offered in &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme/blob/main/README.md">the theme readme&lt;/a>.&lt;/p>
+&lt;p>The shortcodes can be customized with different arguments:&lt;/p></description></item><item><title>Other installation methods</title><link>https://nigel.ong/blog/other-installation-methods/</link><pubDate>Tue, 11 Feb 2025 14:38:33 +0200</pubDate><guid>https://nigel.ong/blog/other-installation-methods/</guid><description>&lt;p>This is a guide that extends the default instructions offered in &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme/blob/main/README.md">the theme readme&lt;/a>.&lt;/p>
 &lt;h3 id="manual-configuration">Manual configuration&lt;/h3>
 &lt;p>If you prefer to manually set your site, you need to replace the contents of your config file (&lt;code>hugo.toml&lt;/code>) file by these:&lt;/p>
 &lt;details>
@@ -637,9 +637,9 @@ listStyle = &amp;#34;summary&amp;#34; # options: simple, summary
 &lt;/details>
 &lt;h3 id="traditional-installation-as-git-submodule">Traditional Installation (as git submodule)&lt;/h3>
 &lt;p>If you prefer not to use Hugo Modules, you can still install the theme as a git submodule.
-The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick-start/#create-a-site">official &amp;ldquo;Quick Start&amp;rdquo;&lt;/a>, just changing the theme URL in the &lt;code>git submodule add&lt;/code> command:&lt;/p></description></item><item><title>Job #3</title><link>https://adritian-demo.vercel.app/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>https://adritian-demo.vercel.app/experience/job-3/</guid><description>&lt;h2 id="3rd-job-cio">3rd job: CIO&lt;/h2>
+The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick-start/#create-a-site">official &amp;ldquo;Quick Start&amp;rdquo;&lt;/a>, just changing the theme URL in the &lt;code>git submodule add&lt;/code> command:&lt;/p></description></item><item><title>Job #3</title><link>https://nigel.ong/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>https://nigel.ong/experience/job-3/</guid><description>&lt;h2 id="3rd-job-cio">3rd job: CIO&lt;/h2>
 &lt;p>As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p>
-&lt;p>During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.&lt;/p></description></item><item><title>Graziella Nutella</title><link>https://adritian-demo.vercel.app/testimonial/graziella-nutella/</link><pubDate>Mon, 25 Nov 2024 21:53:18 +0100</pubDate><guid>https://adritian-demo.vercel.app/testimonial/graziella-nutella/</guid><description>&lt;p>The content of this section comes from the &lt;code>content/testimonial&lt;/code> folder contents. This that you see is in &lt;code>content/testimonial/graziella-nutella.md&lt;/code>.&lt;/p>
+&lt;p>During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.&lt;/p></description></item><item><title>Graziella Nutella</title><link>https://nigel.ong/testimonial/graziella-nutella/</link><pubDate>Mon, 25 Nov 2024 21:53:18 +0100</pubDate><guid>https://nigel.ong/testimonial/graziella-nutella/</guid><description>&lt;p>The content of this section comes from the &lt;code>content/testimonial&lt;/code> folder contents. This that you see is in &lt;code>content/testimonial/graziella-nutella.md&lt;/code>.&lt;/p>
 &lt;p>You can also use parameters for configuration:&lt;/p>
 &lt;pre tabindex="0">&lt;code>name: &amp;#34;Nutting Hill&amp;#34; # place/city/country for the experience. Fill-in.
 position: &amp;#34;Nutcracker&amp;#34; # from-to, for example &amp;#34;2022-2024&amp;#34;. Fill-in.
@@ -648,7 +648,7 @@ params:
  image:
  src: &amp;#34;images/testimonials/testimonial1.png&amp;#34; # example: &amp;#34;images/clients/asgardia.png&amp;#34;
  scale: 0.5
-&lt;/code>&lt;/pre></description></item><item><title>Dana Oneal</title><link>https://adritian-demo.vercel.app/testimonial/dana-oneal/</link><pubDate>Mon, 25 Nov 2024 21:50:45 +0100</pubDate><guid>https://adritian-demo.vercel.app/testimonial/dana-oneal/</guid><description>&lt;p>I had the pleasure of working with this freelancer on several projects, and their performance has been nothing short of outstanding. They bring a high level of expertise, creativity, and dedication to every task. Their ability to understand project requirements and deliver exceptional results on time is truly impressive. They are a reliable and proactive professional who consistently exceeds expectations. I highly recommend this freelancer to anyone seeking top-notch skills and a collaborative partner.&lt;/p></description></item><item><title>Ferdinand Shermand</title><link>https://adritian-demo.vercel.app/testimonial/ferdinand-shermand/</link><pubDate>Mon, 25 Nov 2024 21:30:46 +0100</pubDate><guid>https://adritian-demo.vercel.app/testimonial/ferdinand-shermand/</guid><description>&lt;p>Working with this colleague has been an absolute pleasure. Their dedication, professionalism, and positive attitude make them an invaluable asset to our team. They consistently go above and beyond to ensure that projects are completed on time and to the highest standard. Their ability to collaborate effectively and support their colleagues is truly commendable. I am continually impressed by their innovative thinking and problem-solving skills. This colleague is not just a team member but a true inspiration and a driving force behind our team’s success.&lt;/p></description></item><item><title>Ztos</title><link>https://adritian-demo.vercel.app/client-work/ztos/</link><pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate><guid>https://adritian-demo.vercel.app/client-work/ztos/</guid><description/></item><item><title>Zoo</title><link>https://adritian-demo.vercel.app/client-work/zoo/</link><pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate><guid>https://adritian-demo.vercel.app/client-work/zoo/</guid><description/></item><item><title>Kanba</title><link>https://adritian-demo.vercel.app/client-work/kanba/</link><pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate><guid>https://adritian-demo.vercel.app/client-work/kanba/</guid><description/></item><item><title>Goldline</title><link>https://adritian-demo.vercel.app/client-work/goldline/</link><pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate><guid>https://adritian-demo.vercel.app/client-work/goldline/</guid><description/></item><item><title>Earth 2.0</title><link>https://adritian-demo.vercel.app/client-work/earth2.0/</link><pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate><guid>https://adritian-demo.vercel.app/client-work/earth2.0/</guid><description/></item><item><title>Asgardia</title><link>https://adritian-demo.vercel.app/client-work/asgardia/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://adritian-demo.vercel.app/client-work/asgardia/</guid><description/></item><item><title>High School of Hard Knocks</title><link>https://adritian-demo.vercel.app/education/high-school/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://adritian-demo.vercel.app/education/high-school/</guid><description/></item><item><title>Radity Finance - UI Kit</title><link>https://adritian-demo.vercel.app/projects/radity-finance-uikit/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://adritian-demo.vercel.app/projects/radity-finance-uikit/</guid><description>&lt;p>We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p></description></item><item><title>Robo Advisor</title><link>https://adritian-demo.vercel.app/projects/robo-advisor/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://adritian-demo.vercel.app/projects/robo-advisor/</guid><description>&lt;p>Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p></description></item><item><title>Swiss Fintech Website</title><link>https://adritian-demo.vercel.app/projects/swiss-fintech/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://adritian-demo.vercel.app/projects/swiss-fintech/</guid><description>&lt;p>Here you can add additional context, description, links, etc.
+&lt;/code>&lt;/pre></description></item><item><title>Dana Oneal</title><link>https://nigel.ong/testimonial/dana-oneal/</link><pubDate>Mon, 25 Nov 2024 21:50:45 +0100</pubDate><guid>https://nigel.ong/testimonial/dana-oneal/</guid><description>&lt;p>I had the pleasure of working with this freelancer on several projects, and their performance has been nothing short of outstanding. They bring a high level of expertise, creativity, and dedication to every task. Their ability to understand project requirements and deliver exceptional results on time is truly impressive. They are a reliable and proactive professional who consistently exceeds expectations. I highly recommend this freelancer to anyone seeking top-notch skills and a collaborative partner.&lt;/p></description></item><item><title>Ferdinand Shermand</title><link>https://nigel.ong/testimonial/ferdinand-shermand/</link><pubDate>Mon, 25 Nov 2024 21:30:46 +0100</pubDate><guid>https://nigel.ong/testimonial/ferdinand-shermand/</guid><description>&lt;p>Working with this colleague has been an absolute pleasure. Their dedication, professionalism, and positive attitude make them an invaluable asset to our team. They consistently go above and beyond to ensure that projects are completed on time and to the highest standard. Their ability to collaborate effectively and support their colleagues is truly commendable. I am continually impressed by their innovative thinking and problem-solving skills. This colleague is not just a team member but a true inspiration and a driving force behind our team’s success.&lt;/p></description></item><item><title>Ztos</title><link>https://nigel.ong/client-work/ztos/</link><pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate><guid>https://nigel.ong/client-work/ztos/</guid><description/></item><item><title>Zoo</title><link>https://nigel.ong/client-work/zoo/</link><pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate><guid>https://nigel.ong/client-work/zoo/</guid><description/></item><item><title>Kanba</title><link>https://nigel.ong/client-work/kanba/</link><pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate><guid>https://nigel.ong/client-work/kanba/</guid><description/></item><item><title>Goldline</title><link>https://nigel.ong/client-work/goldline/</link><pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate><guid>https://nigel.ong/client-work/goldline/</guid><description/></item><item><title>Earth 2.0</title><link>https://nigel.ong/client-work/earth2.0/</link><pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate><guid>https://nigel.ong/client-work/earth2.0/</guid><description/></item><item><title>Asgardia</title><link>https://nigel.ong/client-work/asgardia/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/client-work/asgardia/</guid><description/></item><item><title>High School of Hard Knocks</title><link>https://nigel.ong/education/high-school/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/education/high-school/</guid><description/></item><item><title>Radity Finance - UI Kit</title><link>https://nigel.ong/projects/radity-finance-uikit/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/projects/radity-finance-uikit/</guid><description>&lt;p>We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p></description></item><item><title>Robo Advisor</title><link>https://nigel.ong/projects/robo-advisor/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/projects/robo-advisor/</guid><description>&lt;p>Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p></description></item><item><title>Swiss Fintech Website</title><link>https://nigel.ong/projects/swiss-fintech/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/projects/swiss-fintech/</guid><description>&lt;p>Here you can add additional context, description, links, etc.
 The content you see here comes from the contents of the &lt;code>content/projects&lt;/code> folder.&lt;/p>
 &lt;p>This project is in the file &lt;code>projects/swiss-fintech.md&lt;/code>.&lt;/p>
 &lt;p>In the markdown file frontmatter you can also define additional parameters, such as the link:&lt;/p>
@@ -663,9 +663,9 @@ params:
  src: &amp;#34;images/works/swissfintech.jpg&amp;#34;
  scale: 0.5
  
-&lt;/code>&lt;/pre></description></item><item><title>University of Life</title><link>https://adritian-demo.vercel.app/education/university-of-life/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://adritian-demo.vercel.app/education/university-of-life/</guid><description/></item><item><title>Sample content: featured image</title><link>https://adritian-demo.vercel.app/blog/sample-3/</link><pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate><guid>https://adritian-demo.vercel.app/blog/sample-3/</guid><description>&lt;p>Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p>
-&lt;p>&lt;img src="https://adritian-demo.vercel.app/img/blog/feature-sample-3.png" alt="Example image">&lt;/p>
-&lt;p>Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p></description></item><item><title>Sample content: formatting styles</title><link>https://adritian-demo.vercel.app/blog/sample/</link><pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate><guid>https://adritian-demo.vercel.app/blog/sample/</guid><description>&lt;p>Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p>
+&lt;/code>&lt;/pre></description></item><item><title>University of Life</title><link>https://nigel.ong/education/university-of-life/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/education/university-of-life/</guid><description/></item><item><title>Sample content: featured image</title><link>https://nigel.ong/blog/sample-3/</link><pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate><guid>https://nigel.ong/blog/sample-3/</guid><description>&lt;p>Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p>
+&lt;p>&lt;img src="https://nigel.ong/img/blog/feature-sample-3.png" alt="Example image">&lt;/p>
+&lt;p>Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p></description></item><item><title>Sample content: formatting styles</title><link>https://nigel.ong/blog/sample/</link><pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate><guid>https://nigel.ong/blog/sample/</guid><description>&lt;p>Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p>
 &lt;p>We will show some content that is supported:&lt;/p>
 &lt;h2 id="basic-syntax">Basic Syntax&lt;/h2>
 &lt;h3 id="headings">Headings&lt;/h3>
@@ -688,12 +688,12 @@ params:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>__This will also be bold__
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>_You **can** combine them_
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;em>This text will be italic&lt;/em>&lt;/p></description></item><item><title>Trabajo #3</title><link>https://adritian-demo.vercel.app/experience/job-3.es-copy/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate><guid>https://adritian-demo.vercel.app/experience/job-3.es-copy/</guid><description>&lt;h2 id="arreglando-el-mundo-un-byte-a-la-vez">Arreglando el mundo, un byte a la vez&lt;/h2>
-&lt;p>¡Adquisición hostil - ¿quién es el jefe ahora?!&lt;/p></description></item><item><title>Job #2</title><link>https://adritian-demo.vercel.app/experience/job-2/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate><guid>https://adritian-demo.vercel.app/experience/job-2/</guid><description>&lt;h2 id="2nd-job-chief-intern">2nd job: Chief Intern&lt;/h2>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;em>This text will be italic&lt;/em>&lt;/p></description></item><item><title>Trabajo #3</title><link>https://nigel.ong/experience/job-3.es-copy/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate><guid>https://nigel.ong/experience/job-3.es-copy/</guid><description>&lt;h2 id="arreglando-el-mundo-un-byte-a-la-vez">Arreglando el mundo, un byte a la vez&lt;/h2>
+&lt;p>¡Adquisición hostil - ¿quién es el jefe ahora?!&lt;/p></description></item><item><title>Job #2</title><link>https://nigel.ong/experience/job-2/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate><guid>https://nigel.ong/experience/job-2/</guid><description>&lt;h2 id="2nd-job-chief-intern">2nd job: Chief Intern&lt;/h2>
 &lt;p>As Chief Intern at Internet Affairs Inc., I led several key initiatives that helped streamline our internal processes and boost productivity. Working closely with cross-functional teams, I developed and implemented an automated documentation system that reduced report generation time by 65% and improved accuracy by 40%.&lt;/p>
-&lt;p>During my internship, I spearheaded the company&amp;rsquo;s first-ever &amp;ldquo;Innovation Lab&amp;rdquo; program, where I mentored junior interns and coordinated weekly brainstorming sessions. This initiative resulted in three patent-pending solutions and garnered attention from senior management. The program has since been adopted as a permanent fixture in the company&amp;rsquo;s internship structure.&lt;/p></description></item><item><title>Job #1</title><link>https://adritian-demo.vercel.app/experience/job-1/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>https://adritian-demo.vercel.app/experience/job-1/</guid><description>&lt;h2 id="1st-job-junior-intern">1st job: Junior Intern&lt;/h2>
+&lt;p>During my internship, I spearheaded the company&amp;rsquo;s first-ever &amp;ldquo;Innovation Lab&amp;rdquo; program, where I mentored junior interns and coordinated weekly brainstorming sessions. This initiative resulted in three patent-pending solutions and garnered attention from senior management. The program has since been adopted as a permanent fixture in the company&amp;rsquo;s internship structure.&lt;/p></description></item><item><title>Job #1</title><link>https://nigel.ong/experience/job-1/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>https://nigel.ong/experience/job-1/</guid><description>&lt;h2 id="1st-job-junior-intern">1st job: Junior Intern&lt;/h2>
 &lt;p>The beginning of a great career. As a Junior Intern at Internet Affairs Inc., I had the opportunity to work on various projects that helped me develop my technical and professional skills. Working alongside experienced developers, I contributed to the company&amp;rsquo;s core web applications and learned industry best practices in software development.&lt;/p>
-&lt;p>During my internship, I took the initiative to create an internal documentation wiki that improved knowledge sharing across teams. This project taught me valuable lessons in technical writing and collaboration. I also participated in code reviews and daily stand-ups, gaining firsthand experience in agile development methodologies.&lt;/p></description></item><item><title>Footer</title><link>https://adritian-demo.vercel.app/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adritian-demo.vercel.app/footer/footer/</guid><description>&lt;section id="contact" class="section section--contact pt-0">
+&lt;p>During my internship, I took the initiative to create an internal documentation wiki that improved knowledge sharing across teams. This project taught me valuable lessons in technical writing and collaboration. I also participated in code reviews and daily stand-ups, gaining firsthand experience in agile development methodologies.&lt;/p></description></item><item><title>Footer</title><link>https://nigel.ong/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nigel.ong/footer/footer/</guid><description>&lt;section id="contact" class="section section--contact pt-0">
  &lt;div class="container">
  &lt;div class="contact w-100">
  &lt;h2>Reach out&lt;/h2>
@@ -768,7 +768,7 @@ params:
  &lt;div class="rad-subscription-group">
  &lt;form
  id="rad-subscription"
- action="https://adritian-demo.vercel.app/"
+ action="https://nigel.ong/"
  method="POST"
  >
  &lt;input
@@ -799,7 +799,7 @@ params:
  
  &lt;/p>
  &lt;/div>
- &lt;script src='https://adritian-demo.vercel.app/js/subscription.js'>&lt;/script>
+ &lt;script src='https://nigel.ong/js/subscription.js'>&lt;/script>
  &lt;/div>
  &lt;small id="emailHelp" class="form-text text-muted">
  
@@ -842,7 +842,7 @@ params:
  
  
  &lt;div class="text-section__content">
- &lt;p>Additional content added after the &lt;code>section&lt;/code> blocks.&lt;/p></description></item><item><title>Home</title><link>https://adritian-demo.vercel.app/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adritian-demo.vercel.app/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ &lt;p>Additional content added after the &lt;code>section&lt;/code> blocks.&lt;/p></description></item><item><title>Home</title><link>https://nigel.ong/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nigel.ong/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
  &lt;div id="main-content">
  
 
@@ -887,15 +887,15 @@ params:
  
  
 
- &lt;source srcset="https://adritian-demo.vercel.app/images/showcase/showcase_hu_1d1d7b3aa115f7b6.webp 1x, https://adritian-demo.vercel.app/images/showcase/showcase_hu_742323394d601245.webp 2x" type="image/webp" />
- &lt;source srcset="https://adritian-demo.vercel.app/images/showcase/showcase_hu_d959c14929460f45.png 1x, https://adritian-demo.vercel.app/images/showcase/showcase_hu_93443311f98b5b0.png 2x" type="image/png">
+ &lt;source srcset="https://nigel.ong/images/showcase/showcase_hu_1d1d7b3aa115f7b6.webp 1x, https://nigel.ong/images/showcase/showcase_hu_742323394d601245.webp 2x" type="image/webp" />
+ &lt;source srcset="https://nigel.ong/images/showcase/showcase_hu_d959c14929460f45.png 1x, https://nigel.ong/images/showcase/showcase_hu_93443311f98b5b0.png 2x" type="image/png">
 
  &lt;img
  width="790"
  class="lozad img-responsive "
  data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  alt=''
- src="https://adritian-demo.vercel.app/images/showcase/showcase_hu_d959c14929460f45.png"
+ src="https://nigel.ong/images/showcase/showcase_hu_d959c14929460f45.png"
  />
  &lt;/picture>
 
@@ -966,7 +966,7 @@ params:
  
  
  &lt;a
- href="https://adritian-demo.vercel.app/"
+ href="https://nigel.ong/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="dribbble"
@@ -976,7 +976,7 @@ params:
  
  
  &lt;a
- href="https://adritian-demo.vercel.app/"
+ href="https://nigel.ong/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="behance"
@@ -986,7 +986,7 @@ params:
  
  
  &lt;a
- href="https://adritian-demo.vercel.app/"
+ href="https://nigel.ong/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="youtube"
@@ -1016,7 +1016,7 @@ params:
  
  
  &lt;a
- href="https://adritian-demo.vercel.app/"
+ href="https://nigel.ong/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="codepen"
@@ -1162,15 +1162,15 @@ params:
  
  
 
- &lt;source srcset="https://adritian-demo.vercel.app/images/about/user-picture_hu_ba05c452dedabba2.webp 1x, https://adritian-demo.vercel.app/images/about/user-picture_hu_3a0cbef273325334.webp 2x" type="image/webp" />
- &lt;source srcset="https://adritian-demo.vercel.app/images/about/user-picture_hu_133a19aa6d9246f5.png 1x, https://adritian-demo.vercel.app/images/about/user-picture_hu_b15ba7739b574a6b.png 2x" type="image/png">
+ &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_ba05c452dedabba2.webp 1x, https://nigel.ong/images/about/user-picture_hu_3a0cbef273325334.webp 2x" type="image/webp" />
+ &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_133a19aa6d9246f5.png 1x, https://nigel.ong/images/about/user-picture_hu_b15ba7739b574a6b.png 2x" type="image/png">
 
  &lt;img
  width="561"
  class="lozad img-responsive image-left-overflow"
  data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  alt=''
- src="https://adritian-demo.vercel.app/images/about/user-picture_hu_133a19aa6d9246f5.png"
+ src="https://nigel.ong/images/about/user-picture_hu_133a19aa6d9246f5.png"
  />
  &lt;/picture>
 
@@ -1255,7 +1255,7 @@ params:
 
  
  &lt;div class="experience">
- &lt;a href="https://adritian-demo.vercel.app/experience/job-3/" class="experience__link">
+ &lt;a href="https://nigel.ong/experience/job-3/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -1280,7 +1280,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;/div>
  
  &lt;div class="experience">
- &lt;a href="https://adritian-demo.vercel.app/experience/job-3.es-copy/" class="experience__link">
+ &lt;a href="https://nigel.ong/experience/job-3.es-copy/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -1302,7 +1302,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;/div>
  
  &lt;div class="experience">
- &lt;a href="https://adritian-demo.vercel.app/experience/job-2/" class="experience__link">
+ &lt;a href="https://nigel.ong/experience/job-2/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -1326,13 +1326,13 @@ My most significant achievement was the successful implementation of a machine l
  &lt;/div>
  
  &lt;div class="experience">
- &lt;a href="https://adritian-demo.vercel.app/experience/job-1/" class="experience__link">
+ &lt;a href="https://nigel.ong/experience/job-1/" class="experience__link">
  &lt;div class="experience__header">
  
  
  
  &lt;img 
- src="https://adritian-demo.vercel.app/images/experience/internet-affairs_hu_f29ca0c703f54231.webp" 
+ src="https://nigel.ong/images/experience/internet-affairs_hu_f29ca0c703f54231.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -1398,7 +1398,7 @@ Through these experiences, I built a strong foundation in software development a
  
  &lt;div class="col-12 col-lg-4">
  &lt;a
- href='https://adritian-demo.vercel.app/experience'
+ href='https://nigel.ong/experience'
  class="btn btn-frameless w-100"
  target="_blank"
  rel="noopener noreferrer"
@@ -1412,7 +1412,7 @@ Through these experiences, I built a strong foundation in software development a
  
  &lt;div class="col-12 col-lg-4">
  &lt;a
- href='https://adritian-demo.vercel.app/experience'
+ href='https://nigel.ong/experience'
  class="btn btn-frameless w-100"
  rel="noopener noreferrer"
  >
@@ -1462,6 +1462,6 @@ Through these experiences, I built a strong foundation in software development a
  &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0">
  &lt;h1>Job #3&lt;/h1>
  &lt;h2 id="3rd-job-cio">3rd job: CIO&lt;/h2>
-&lt;p>As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p></description></item><item><title>Printable CV</title><link>https://adritian-demo.vercel.app/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adritian-demo.vercel.app/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
+&lt;p>As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p></description></item><item><title>Printable CV</title><link>https://nigel.ong/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nigel.ong/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
 &lt;h3 id="about-me">About me&lt;/h3>
-&lt;p>I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.&lt;/p></description></item><item><title>Search</title><link>https://adritian-demo.vercel.app/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adritian-demo.vercel.app/search/</guid><description>search</description></item></channel></rss>
+&lt;p>I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.&lt;/p></description></item><item><title>Search</title><link>https://nigel.ong/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nigel.ong/search/</guid><description>search</description></item></channel></rss>
