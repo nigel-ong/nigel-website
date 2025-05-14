@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>https://nigel-ong.github.io/nigel-website/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="https://nigel-ong.github.io/nigel-website/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>https://nigel-ong.github.io/nigel-website/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nigel-ong.github.io/nigel-website/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>https://adritian-demo.vercel.app/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="https://adritian-demo.vercel.app/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>https://adritian-demo.vercel.app/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adritian-demo.vercel.app/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
  &lt;div id="main-content">
  
 
@@ -43,15 +43,15 @@
  
  
 
- &lt;source srcset="https://nigel-ong.github.io/nigel-website/images/showcase/showcase_hu_1d1d7b3aa115f7b6.webp 1x, https://nigel-ong.github.io/nigel-website/images/showcase/showcase_hu_742323394d601245.webp 2x" type="image/webp" />
- &lt;source srcset="https://nigel-ong.github.io/nigel-website/images/showcase/showcase_hu_d959c14929460f45.png 1x, https://nigel-ong.github.io/nigel-website/images/showcase/showcase_hu_93443311f98b5b0.png 2x" type="image/png">
+ &lt;source srcset="https://adritian-demo.vercel.app/images/showcase/showcase_hu_1d1d7b3aa115f7b6.webp 1x, https://adritian-demo.vercel.app/images/showcase/showcase_hu_742323394d601245.webp 2x" type="image/webp" />
+ &lt;source srcset="https://adritian-demo.vercel.app/images/showcase/showcase_hu_d959c14929460f45.png 1x, https://adritian-demo.vercel.app/images/showcase/showcase_hu_93443311f98b5b0.png 2x" type="image/png">
 
  &lt;img
  width="790"
  class="lozad img-responsive "
  data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  alt=''
- src="https://nigel-ong.github.io/nigel-website/images/showcase/showcase_hu_d959c14929460f45.png"
+ src="https://adritian-demo.vercel.app/images/showcase/showcase_hu_d959c14929460f45.png"
  />
  &lt;/picture>
 
@@ -122,7 +122,7 @@
  
  
  &lt;a
- href="https://nigel-ong.github.io/nigel-website"
+ href="https://adritian-demo.vercel.app/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="dribbble"
@@ -132,7 +132,7 @@
  
  
  &lt;a
- href="https://nigel-ong.github.io/nigel-website"
+ href="https://adritian-demo.vercel.app/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="behance"
@@ -142,7 +142,7 @@
  
  
  &lt;a
- href="https://nigel-ong.github.io/nigel-website"
+ href="https://adritian-demo.vercel.app/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="youtube"
@@ -172,7 +172,7 @@
  
  
  &lt;a
- href="https://nigel-ong.github.io/nigel-website"
+ href="https://adritian-demo.vercel.app/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="codepen"
@@ -318,15 +318,15 @@
  
  
 
- &lt;source srcset="https://nigel-ong.github.io/nigel-website/images/about/user-picture_hu_ba05c452dedabba2.webp 1x, https://nigel-ong.github.io/nigel-website/images/about/user-picture_hu_3a0cbef273325334.webp 2x" type="image/webp" />
- &lt;source srcset="https://nigel-ong.github.io/nigel-website/images/about/user-picture_hu_133a19aa6d9246f5.png 1x, https://nigel-ong.github.io/nigel-website/images/about/user-picture_hu_b15ba7739b574a6b.png 2x" type="image/png">
+ &lt;source srcset="https://adritian-demo.vercel.app/images/about/user-picture_hu_ba05c452dedabba2.webp 1x, https://adritian-demo.vercel.app/images/about/user-picture_hu_3a0cbef273325334.webp 2x" type="image/webp" />
+ &lt;source srcset="https://adritian-demo.vercel.app/images/about/user-picture_hu_133a19aa6d9246f5.png 1x, https://adritian-demo.vercel.app/images/about/user-picture_hu_b15ba7739b574a6b.png 2x" type="image/png">
 
  &lt;img
  width="561"
  class="lozad img-responsive image-left-overflow"
  data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  alt=''
- src="https://nigel-ong.github.io/nigel-website/images/about/user-picture_hu_133a19aa6d9246f5.png"
+ src="https://adritian-demo.vercel.app/images/about/user-picture_hu_133a19aa6d9246f5.png"
  />
  &lt;/picture>
 
@@ -411,7 +411,7 @@
 
  
  &lt;div class="experience">
- &lt;a href="https://nigel-ong.github.io/nigel-website/experience/job-3/" class="experience__link">
+ &lt;a href="https://adritian-demo.vercel.app/experience/job-3/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -436,7 +436,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;/div>
  
  &lt;div class="experience">
- &lt;a href="https://nigel-ong.github.io/nigel-website/experience/job-3.es-copy/" class="experience__link">
+ &lt;a href="https://adritian-demo.vercel.app/experience/job-3.es-copy/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -458,7 +458,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;/div>
  
  &lt;div class="experience">
- &lt;a href="https://nigel-ong.github.io/nigel-website/experience/job-2/" class="experience__link">
+ &lt;a href="https://adritian-demo.vercel.app/experience/job-2/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -482,13 +482,13 @@ My most significant achievement was the successful implementation of a machine l
  &lt;/div>
  
  &lt;div class="experience">
- &lt;a href="https://nigel-ong.github.io/nigel-website/experience/job-1/" class="experience__link">
+ &lt;a href="https://adritian-demo.vercel.app/experience/job-1/" class="experience__link">
  &lt;div class="experience__header">
  
  
  
  &lt;img 
- src="https://nigel-ong.github.io/nigel-website/images/experience/internet-affairs_hu_f29ca0c703f54231.webp" 
+ src="https://adritian-demo.vercel.app/images/experience/internet-affairs_hu_f29ca0c703f54231.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -554,7 +554,7 @@ Through these experiences, I built a strong foundation in software development a
  
  &lt;div class="col-12 col-lg-4">
  &lt;a
- href='https://nigel-ong.github.io/experience'
+ href='https://adritian-demo.vercel.app/experience'
  class="btn btn-frameless w-100"
  target="_blank"
  rel="noopener noreferrer"
@@ -568,7 +568,7 @@ Through these experiences, I built a strong foundation in software development a
  
  &lt;div class="col-12 col-lg-4">
  &lt;a
- href='https://nigel-ong.github.io/experience'
+ href='https://adritian-demo.vercel.app/experience'
  class="btn btn-frameless w-100"
  rel="noopener noreferrer"
  >
