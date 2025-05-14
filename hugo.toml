@@ -1,5 +1,7 @@
-baseURL = "https://adritian-demo.vercel.app/"
-title = "Adritian Demo"
+baseURL = "https://nigel.ong/"
+# baseURL = "https://adritian-demo.vercel.app/"
+# title = "Adritian Demo"
+title = "Nigel Ong"
 languageCode = "en"
 
  
@@ -339,7 +341,7 @@ URL = "scss/adritian.scss"
 
 ## the following configuration would disable automatic theme selection
 #  [params.colorTheme.auto]
-#    disable = true
+#    disable = false
 #  [params.colorTheme.forced]
 #    theme = "dark"
 
