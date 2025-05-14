@@ -70,8 +70,8 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Nigel Ong Title!!'
-description = 'Nigel Ong's Personal Site.'
+title = "Nigel Ong Title!!"
+description = "Nigel Ong's Personal Site."
 images = ['/img/og-img.png']
 sections = [
   "showcase",
