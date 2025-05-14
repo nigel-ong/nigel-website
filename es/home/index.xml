@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>https://adritian-demo.vercel.app/es/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>es</language><atom:link href="https://adritian-demo.vercel.app/es/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Inicio</title><link>https://adritian-demo.vercel.app/es/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adritian-demo.vercel.app/es/home/home/</guid><description>&lt;section id="seccion-destacada" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>https://nigel.ong/es/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>es</language><atom:link href="https://nigel.ong/es/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Inicio</title><link>https://nigel.ong/es/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nigel.ong/es/home/home/</guid><description>&lt;section id="seccion-destacada" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
  &lt;div id="main-content">
  
 
@@ -43,15 +43,15 @@
  
  
 
- &lt;source srcset="https://adritian-demo.vercel.app/images/showcase/showcase_hu_1d1d7b3aa115f7b6.webp 1x, https://adritian-demo.vercel.app/images/showcase/showcase_hu_742323394d601245.webp 2x" type="image/webp" />
- &lt;source srcset="https://adritian-demo.vercel.app/images/showcase/showcase_hu_d959c14929460f45.png 1x, https://adritian-demo.vercel.app/images/showcase/showcase_hu_93443311f98b5b0.png 2x" type="image/png">
+ &lt;source srcset="https://nigel.ong/images/showcase/showcase_hu_1d1d7b3aa115f7b6.webp 1x, https://nigel.ong/images/showcase/showcase_hu_742323394d601245.webp 2x" type="image/webp" />
+ &lt;source srcset="https://nigel.ong/images/showcase/showcase_hu_d959c14929460f45.png 1x, https://nigel.ong/images/showcase/showcase_hu_93443311f98b5b0.png 2x" type="image/png">
 
  &lt;img
  width="790"
  class="lozad img-responsive "
  data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  alt=''
- src="https://adritian-demo.vercel.app/images/showcase/showcase_hu_d959c14929460f45.png"
+ src="https://nigel.ong/images/showcase/showcase_hu_d959c14929460f45.png"
  />
  &lt;/picture>
 
@@ -124,7 +124,7 @@
  
  
  &lt;a
- href="https://adritian-demo.vercel.app/"
+ href="https://nigel.ong/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="dribbble"
@@ -134,7 +134,7 @@
  
  
  &lt;a
- href="https://adritian-demo.vercel.app/"
+ href="https://nigel.ong/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="behance"
@@ -144,7 +144,7 @@
  
  
  &lt;a
- href="https://adritian-demo.vercel.app/"
+ href="https://nigel.ong/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="youtube"
@@ -174,7 +174,7 @@
  
  
  &lt;a
- href="https://adritian-demo.vercel.app/"
+ href="https://nigel.ong/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="codepen"
@@ -307,31 +307,7 @@
 
 
 
-
  
- 
-
-
-
- 
- 
-
-
- &lt;picture class="">
- 
- 
-
- &lt;source srcset="https://adritian-demo.vercel.app/images/about/user-picture_hu_ba05c452dedabba2.webp 1x, https://adritian-demo.vercel.app/images/about/user-picture_hu_3a0cbef273325334.webp 2x" type="image/webp" />
- &lt;source srcset="https://adritian-demo.vercel.app/images/about/user-picture_hu_133a19aa6d9246f5.png 1x, https://adritian-demo.vercel.app/images/about/user-picture_hu_b15ba7739b574a6b.png 2x" type="image/png">
-
- &lt;img
- width="561"
- class="lozad img-responsive image-left-overflow"
- data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
- alt=''
- src="https://adritian-demo.vercel.app/images/about/user-picture_hu_133a19aa6d9246f5.png"
- />
- &lt;/picture>
 
  &lt;/div>
  &lt;div class="col-12 col-md-6 my-auto my-auto">
@@ -402,7 +378,7 @@
 
  
  &lt;div class="experience">
- &lt;a href="https://adritian-demo.vercel.app/es/experience/job-3/" class="experience__link">
+ &lt;a href="https://nigel.ong/es/experience/job-3/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -424,7 +400,7 @@
  &lt;/div>
  
  &lt;div class="experience">
- &lt;a href="https://adritian-demo.vercel.app/es/experience/job-2/" class="experience__link">
+ &lt;a href="https://nigel.ong/es/experience/job-2/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -446,7 +422,7 @@
  &lt;/div>
  
  &lt;div class="experience">
- &lt;a href="https://adritian-demo.vercel.app/es/experience/job-1/" class="experience__link">
+ &lt;a href="https://nigel.ong/es/experience/job-1/" class="experience__link">
  &lt;div class="experience__header">
  
  
@@ -507,7 +483,7 @@
  
  &lt;div class="col-12 col-lg-4">
  &lt;a
- href='https://adritian-demo.vercel.app/img/general/user-smile-fill.svg'
+ href='https://nigel.ong/img/general/user-smile-fill.svg'
  class="btn btn-frameless w-100"
  target="_blank"
  rel="noopener noreferrer"
@@ -521,7 +497,7 @@
  
  &lt;div class="col-12 col-lg-4">
  &lt;a
- href='https://adritian-demo.vercel.app/es/experience'
+ href='https://nigel.ong/es/experience'
  class="btn btn-frameless w-100"
  rel="noopener noreferrer"
  >
@@ -537,4 +513,4 @@
  &lt;/div>
 &lt;/section>
 &lt;h2 id="experiencia-lista">Experiencia (lista)&lt;/h2>
-&lt;p>Puedes ver una versión alternativa, usando &lt;code>experience-list&lt;/code> en &lt;a href="https://adritian-demo.vercel.app/cv">/cv&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;p>Puedes ver una versión alternativa, usando &lt;code>experience-list&lt;/code> en &lt;a href="https://nigel.ong/cv">/cv&lt;/a>.&lt;/p></description></item></channel></rss>
