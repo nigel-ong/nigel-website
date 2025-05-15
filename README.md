@@ -191,6 +191,17 @@ temp-clone/
 
 ---
 
+## 🛠 Customizing the Site Header and Images
+
+- To **change the site title/logo text** in the top-left corner of the page, go to the `i18n/` folder and edit the language file (e.g., `en.toml` or `en.yaml`). Update the values for `logo_text1` and `logo_text2`.
+
+- To **add or replace homepage images**, go to the `assets/` folder and place your new image files there.
+
+- To ensure those images show correctly on the site, go to the `content/home.md` file and update the `image = "..."` reference in the front matter to point to your new image path.
+
+
+---
+
 ## ✅ Done!
 
 You're now fully set up to maintain and deploy a modern Hugo site with a powerful theme and automatic GitHub Pages deployment — all through WSL!
