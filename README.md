@@ -2,6 +2,15 @@
 
 This guide documents the full setup process and instructions for maintaining and updating your personal website, built with [Hugo](https://gohugo.io/) and the [Adritian Hugo Theme](https://github.com/zetxek/adritian-free-hugo-theme), hosted on GitHub Pages. All steps are performed **inside WSL (Windows Subsystem for Linux)**.
 
+
+Please note we must run in WSL, for ease of use go to the folder 
+```bash
+/Hugo_nigelong_site/nigelongsite
+```
+right click open in "open in terminal or in VScode navigate to this folder and type `wsl` in the terminal.
+Currently WSL does not have HUGO installed (too lazy lmao) so to run local server, just do it in Windows instead of WSL
+When updating and doing git pulls and pushes run in WSL mode because of the line ending issues. 
+
 ---
 
 ## 📚 Table of Contents
