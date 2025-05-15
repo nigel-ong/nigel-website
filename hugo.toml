@@ -139,7 +139,8 @@ URL = '#about'
 weight = 2
 [[languages.en.menus.header]]
 name = 'Portfolio'
-URL = '#portfolio'
+URL = "/projects"
+# L = '#portfolio'
 weight = 3
 #  [[languages.en.menus.header]]
 #  name = "Experience"
