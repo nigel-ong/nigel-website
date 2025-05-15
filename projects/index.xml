@@ -1,16 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on</title><link>https://nigel.ong/projects/</link><description>Recent content in Projects on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate><atom:link href="https://nigel.ong/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Radity Finance - UI Kit</title><link>https://nigel.ong/projects/radity-finance-uikit/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/projects/radity-finance-uikit/</guid><description>&lt;p>We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p></description></item><item><title>Robo Advisor</title><link>https://nigel.ong/projects/robo-advisor/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/projects/robo-advisor/</guid><description>&lt;p>Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p></description></item><item><title>Swiss Fintech Website</title><link>https://nigel.ong/projects/swiss-fintech/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://nigel.ong/projects/swiss-fintech/</guid><description>&lt;p>Here you can add additional context, description, links, etc.
-The content you see here comes from the contents of the &lt;code>content/projects&lt;/code> folder.&lt;/p>
-&lt;p>This project is in the file &lt;code>projects/swiss-fintech.md&lt;/code>.&lt;/p>
-&lt;p>In the markdown file frontmatter you can also define additional parameters, such as the link:&lt;/p>
-&lt;pre tabindex="0">&lt;code>link: &amp;#34;https://www.adrianmoreno.info&amp;#34; # optional URL to link the logo to
-
-params:
- button:
- icon: &amp;#34;icon-arrow-right&amp;#34;
- btnText: &amp;#34;Case Study&amp;#34;
- URL: &amp;#34;https://www.adrianmoreno.info&amp;#34;
- image: 
- src: &amp;#34;images/works/swissfintech.jpg&amp;#34;
- scale: 0.5
- 
-&lt;/code>&lt;/pre></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on</title><link>https://nigel.ong/projects/</link><description>Recent content in Projects on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 14 May 2025 23:53:25 -0700</lastBuildDate><atom:link href="https://nigel.ong/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Memo Rizz</title><link>https://nigel.ong/projects/memo-rizz/</link><pubDate>Wed, 14 May 2025 23:53:25 -0700</pubDate><guid>https://nigel.ong/projects/memo-rizz/</guid><description>&lt;p>A memo taking web app developed during BCIT in a group of five. Interactive and deployed on render.com for demo. May take a few minutes for app instance to spin up!&lt;/p>
+&lt;p>Note: Accounts and passwords will be erased after instance shuts off.&lt;/p></description></item><item><title>Pose IT</title><link>https://nigel.ong/projects/pose-it/</link><pubDate>Tue, 13 May 2025 00:27:16 -0700</pubDate><guid>https://nigel.ong/projects/pose-it/</guid><description>&lt;p>Pose IT is an interactive XR app designed for the BCIT Tech Collider Wall. Pose IT utilizes the tracking cameras and the 8k Tech Collider screen for players to mimic the pose of the target avatar and receive a score in percentage accuracy.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-vS5hrA8dEI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div></description></item></channel></rss>
