@@ -9,9 +9,9 @@ draft = false
     title="'Sup"
     subtitle="Thanks for dropping by"
     buttonText="Email"
-    description="<strong>Strong</strong>, <em>italic</em> and normal text. This comes from <a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'><code>home.md</code></a>, using the <code>showcase-section</code> <a href=''>shortcode</a>.<br/>Below you can see the social links, provided by the <code>platform-links</code> shortcode."
-    imgSrc="images/showcase/showcase.png"
-    imgScale="0.5"
+    description="I’m <b>Nigel Ong</b> a BCIT graduate with experience in IT support and a passion for DevOps, Cybersecurity, Data Analytics, and Software Development. I also enjoy creating graphics and building fun, useful projects.<br><br>Keep scrolling to check out my work and feel free to connect!"
+    imgSrc="images/about/user-picture.jpg"
+    imgScale="0.2"
  >}}
 
 {{< platform-links >}}
@@ -23,14 +23,13 @@ draft = false
 
 {{< about-section
     title="About me"
-    content="This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
+    description="This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
     button_icon="icon-user"
-    button_text="You can edit the text, link and icon"
+    button_text="Download Resume"
     button_url="https://www.google.com"
-    imgSrc="images/about/user-picture.jpg"
     imgScale="0.5"
-    centered="true"
  >}}
+    <!-- imgSrc="images/about/user-picture.jpg" -->
 
 <!-- {{< experience-section
     title="My job experience (title)"
@@ -59,22 +58,22 @@ draft = false
 {{< education-list
     title="Education" >}}
 
-{{< spacer size="large" >}}
+<!-- {{< spacer size="large" >}}
 
 ## Extra home content
 
 Additional content added after the `section` blocks, in the `home.md` file. 
 
-Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone.
+Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone. -->
 
 <!-- {{< spacer size="small" >}} -->
 <!-- {{< spacer size="large" >}} -->
 
-{{< text-section
+<!-- {{< text-section
 title="Extra (centered) content"
 centered="true"
 >}}
 
 You can also use the `text-section` shortcode to add centered texts
 
-{{< /text-section >}}
+{{< /text-section >}} -->

@@ -259,6 +259,7 @@ git push -u origin my-branch-name   # Push new branch to GitHub
 git checkout main                   # Switch back to main
 git merge my-branch-name            # Merge into main
 git push                            # Push updated main
+git branch --set-upstream-to=origin/main # Set up the upstream to Main branch
 ```
 
 ### Delete Branch

@@ -39,9 +39,9 @@
   translation: "Toggle theme"
 
 - id: "theme_light"
-  translation: "☀️ Light"
+  translation: "☀️"
 - id: "theme_dark"
-  translation: "🌑 Dark"
+  translation: "🌑"
 - id: "theme_auto"
   translation: "✨ Auto"
 

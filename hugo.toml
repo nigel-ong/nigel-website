@@ -67,7 +67,7 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = "Nigel Ong | Tech Professional"
+title = "Nigel Ong | Support & Operations"
 description = "Nigel Ong's Personal Site."
 images = ['/img/og-img.png']
 sections = [
@@ -241,4 +241,4 @@ featured_sort_by_date = false
 
 
 [params.experience]
-showJobCard = true # Set to false to hide the job card
+showJobCard = false # Set to false to hide the job card
