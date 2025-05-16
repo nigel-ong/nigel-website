@@ -147,21 +147,27 @@ weight = 3
 #  URL = "#experience"
 #  weight = 4
 
+# [[languages.en.menus.header]]
+# name = "How To"
+# URL = "/blog"
+# weight = 7
+
 [[languages.en.menus.header]]
-name = "How to"
-URL = "/blog"
+pre = "linkedin"
+name = "LinkedIn"
+URL = "https://www.linkedin.com/in/niong/"
 weight = 5
+
+[[languages.en.menus.header]]
+pre = "square-github"
+name = "GitHub"
+URL = "https://github.com/nigel-ong/"
+weight = 6
 
 [[languages.en.menus.header]]
 pre = "email"
 name = "email"
 URL = "#contact"
-weight = 6
-
-[[languages.en.menus.header]]
-pre = "search"
-name = "Search"
-URL = "/search"
 weight = 7
 
 [[languages.en.menus.footer]]
