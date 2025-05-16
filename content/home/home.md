@@ -23,13 +23,13 @@ draft = false
 
 {{< about-section
     title="About me"
-    description="This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
+    content="Through my experience and training at BCIT, I’ve developed a problem-solving mindset rooted in structure and speed. <br><br>I thrive in environments where I can keep learning, contribute meaningfully, and work alongside people who care about doing things right. I’ve supported environments with 600+ users, managed everything from user management to delivering tech events and live streams. <br><br>Whether I’m resolving a technical issue or helping someone feel more confident using their tools, my focus is always on providing thoughtful, reliable support — the kind of support I’d want to receive. I’m looking to grow with a team that values curiosity, communication, and the power of well-run systems"
     button_icon="icon-user"
     button_text="Download Resume"
     button_url="https://www.google.com"
     imgScale="0.5"
  >}}
-    <!-- imgSrc="images/about/user-picture.jpg" -->
+<!-- imgSrc="images/about/user-picture.jpg" -->
 
 <!-- {{< experience-section
     title="My job experience (title)"
