@@ -679,7 +679,7 @@ The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick
 
  &lt;div class="row pt-2">
  &lt;div class="col-12 col-lg-7">
- &lt;form action="https://formspree.io/f/mail@example.com" method="POST" class="contact__form">
+ &lt;form action="https://formspree.io/f/nigel.ong00@gmail.com" method="POST" class="contact__form">
  &lt;div class="row">
  &lt;div class="col-12 col-sm-6">
  &lt;input type="text" name="full_name" class="form-control" placeholder="Your name">
@@ -707,18 +707,15 @@ The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick
  &lt;/div>
  &lt;div class="col-12 col-lg-5 contact__info">
  
- &lt;h3>My phone&lt;/h3>
- &lt;span>&lt;a href='tel:+555666777'>555 666 777&lt;/a>&lt;/span>
- 
 
  
  &lt;h3>My mail&lt;/h3>
- &lt;span>&lt;a href='mailto:demo@demosite.com'>demo@demosite.com&lt;/a>&lt;/span>
+ &lt;span>&lt;a href='mailto:nigel.ong00@gmail.com'>nigel.ong00@gmail.com&lt;/a>&lt;/span>
  
  
  
  &lt;h3>My location&lt;/h3>
- &lt;span>🇩🇰 Denmark&lt;/span>
+ &lt;span>ca Vancouver&lt;/span>
  
  &lt;/div>
  &lt;/div>
@@ -726,7 +723,7 @@ The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick
  &lt;/div>
 &lt;/section>
 
-
+&lt;!-- 
 
 
 
@@ -789,7 +786,8 @@ The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick
  &lt;/div>
  &lt;/div>
 &lt;/section>
-
+ -->
+&lt;!-- 
 
 
 
@@ -837,7 +835,7 @@ The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick
  &lt;span>Thanks for dropping by&lt;/span>
  &lt;/h2>
  &lt;div class="lead">
- &lt;strong>Strong&lt;/strong>, &lt;em>italic&lt;/em> and normal text. This comes from &lt;a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'>&lt;code>home.md&lt;/code>&lt;/a>, using the &lt;code>showcase-section&lt;/code> &lt;a href=''>shortcode&lt;/a>.&lt;br/>Below you can see the social links, provided by the &lt;code>platform-links&lt;/code> shortcode.
+ I’m &lt;b>Nigel Ong&lt;/b> a BCIT graduate with experience in IT support and a passion for DevOps, Cybersecurity, Data Analytics, and Software Development. I also enjoy creating graphics and building fun, useful projects.&lt;br>&lt;br>Keep scrolling to check out my work and feel free to connect!
  &lt;/div>
  
  &lt;/div>
@@ -866,15 +864,15 @@ The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick
  
  
 
- &lt;source srcset="https://nigel.ong/images/showcase/showcase_hu_1d1d7b3aa115f7b6.webp 1x, https://nigel.ong/images/showcase/showcase_hu_742323394d601245.webp 2x" type="image/webp" />
- &lt;source srcset="https://nigel.ong/images/showcase/showcase_hu_d959c14929460f45.png 1x, https://nigel.ong/images/showcase/showcase_hu_93443311f98b5b0.png 2x" type="image/png">
+ &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_2bfcade52f0501d.webp 1x, https://nigel.ong/images/about/user-picture_hu_4b8ac0889bbaa45a.webp 2x" type="image/webp" />
+ &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_fd697f65ef957140.jpg 1x, https://nigel.ong/images/about/user-picture_hu_ae6feacf5115fcd4.jpg 2x" type="image/jpeg">
 
  &lt;img
- width="790"
+ width="524"
  class="lozad img-responsive "
  data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  alt=''
- src="https://nigel.ong/images/showcase/showcase_hu_d959c14929460f45.png"
+ src="https://nigel.ong/images/about/user-picture_hu_fd697f65ef957140.jpg"
  />
  &lt;/picture>
 
@@ -956,48 +954,25 @@ The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick
 
 
 
-
  
- 
-
-
-
- 
- 
-
-
- &lt;picture class="">
- 
- 
-
- &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_17aa5aac29fd1dc7.webp 1x, https://nigel.ong/images/about/user-picture_hu_fb4a4705b913e7fb.webp 2x" type="image/webp" />
- &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_7db51e58ddb78cf4.jpg 1x, https://nigel.ong/images/about/user-picture_hu_138eac229ee44b1c.jpg 2x" type="image/jpeg">
-
- &lt;img
- width="600"
- class="lozad img-responsive image-left-overflow"
- data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
- alt=''
- src="https://nigel.ong/images/about/user-picture_hu_7db51e58ddb78cf4.jpg"
- />
- &lt;/picture>
 
  &lt;/div>
  &lt;div class="col-12 col-md-6 my-auto my-auto">
  &lt;h1>About me&lt;/h1>
  &lt;div class="about-me content lead">
- This content is using the &lt;code>about-section&lt;/code> shortcode. &lt;br/>You can write &lt;code>HTML&lt;/code>, as long as you &lt;em>wrap it&lt;/em> accordingly. 
+ Through my experience and training at BCIT, I’ve developed a problem-solving mindset rooted in structure and speed. &lt;br>&lt;br>I thrive in environments where I can keep learning, contribute meaningfully, and work alongside people who care about doing things right. I’ve supported environments with 600+ users, managed everything from user management to delivering tech events and live streams. &lt;br>&lt;br>Whether I’m resolving a technical issue or helping someone feel more confident using their tools, my focus is always on providing thoughtful, reliable support — the kind of support I’d want to receive. I’m looking to grow with a team that values curiosity, communication, and the power of well-run systems
  &lt;/div>
  
  &lt;a href="https://www.google.com" target="_blank" class="btn btn-primary">
  &lt;i class="icon-user">&lt;/i>
- You can edit the text, link and icon
+ Download Resume
  &lt;/a>
  
  &lt;/div>
  &lt;/div>
  &lt;/div>
 &lt;/section>
+&lt;!-- imgSrc="images/about/user-picture.jpg" -->
 &lt;!-- 
 
 
@@ -1212,6 +1187,4 @@ Through these experiences, I built a strong foundation in software development a
  &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0">
  &lt;h1>Job #3&lt;/h1>
  &lt;h2 id="3rd-job-cio">3rd job: CIO&lt;/h2>
-&lt;p>As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p></description></item><item><title>Printable CV</title><link>https://nigel.ong/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nigel.ong/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
-&lt;h3 id="about-me">About me&lt;/h3>
-&lt;p>I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.&lt;/p></description></item><item><title>Search</title><link>https://nigel.ong/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nigel.ong/search/</guid><description>search</description></item></channel></rss>
+&lt;p>As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p></description></item></channel></rss>

@@ -14,7 +14,7 @@
  &lt;span>Thanks for dropping by&lt;/span>
  &lt;/h2>
  &lt;div class="lead">
- &lt;strong>Strong&lt;/strong>, &lt;em>italic&lt;/em> and normal text. This comes from &lt;a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'>&lt;code>home.md&lt;/code>&lt;/a>, using the &lt;code>showcase-section&lt;/code> &lt;a href=''>shortcode&lt;/a>.&lt;br/>Below you can see the social links, provided by the &lt;code>platform-links&lt;/code> shortcode.
+ I’m &lt;b>Nigel Ong&lt;/b> a BCIT graduate with experience in IT support and a passion for DevOps, Cybersecurity, Data Analytics, and Software Development. I also enjoy creating graphics and building fun, useful projects.&lt;br>&lt;br>Keep scrolling to check out my work and feel free to connect!
  &lt;/div>
  
  &lt;/div>
@@ -43,15 +43,15 @@
  
  
 
- &lt;source srcset="https://nigel.ong/images/showcase/showcase_hu_1d1d7b3aa115f7b6.webp 1x, https://nigel.ong/images/showcase/showcase_hu_742323394d601245.webp 2x" type="image/webp" />
- &lt;source srcset="https://nigel.ong/images/showcase/showcase_hu_d959c14929460f45.png 1x, https://nigel.ong/images/showcase/showcase_hu_93443311f98b5b0.png 2x" type="image/png">
+ &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_2bfcade52f0501d.webp 1x, https://nigel.ong/images/about/user-picture_hu_4b8ac0889bbaa45a.webp 2x" type="image/webp" />
+ &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_fd697f65ef957140.jpg 1x, https://nigel.ong/images/about/user-picture_hu_ae6feacf5115fcd4.jpg 2x" type="image/jpeg">
 
  &lt;img
- width="790"
+ width="524"
  class="lozad img-responsive "
  data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  alt=''
- src="https://nigel.ong/images/showcase/showcase_hu_d959c14929460f45.png"
+ src="https://nigel.ong/images/about/user-picture_hu_fd697f65ef957140.jpg"
  />
  &lt;/picture>
 
@@ -133,48 +133,25 @@
 
 
 
-
  
- 
-
-
-
- 
- 
-
-
- &lt;picture class="">
- 
- 
-
- &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_17aa5aac29fd1dc7.webp 1x, https://nigel.ong/images/about/user-picture_hu_fb4a4705b913e7fb.webp 2x" type="image/webp" />
- &lt;source srcset="https://nigel.ong/images/about/user-picture_hu_7db51e58ddb78cf4.jpg 1x, https://nigel.ong/images/about/user-picture_hu_138eac229ee44b1c.jpg 2x" type="image/jpeg">
-
- &lt;img
- width="600"
- class="lozad img-responsive image-left-overflow"
- data-src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
- alt=''
- src="https://nigel.ong/images/about/user-picture_hu_7db51e58ddb78cf4.jpg"
- />
- &lt;/picture>
 
  &lt;/div>
  &lt;div class="col-12 col-md-6 my-auto my-auto">
  &lt;h1>About me&lt;/h1>
  &lt;div class="about-me content lead">
- This content is using the &lt;code>about-section&lt;/code> shortcode. &lt;br/>You can write &lt;code>HTML&lt;/code>, as long as you &lt;em>wrap it&lt;/em> accordingly. 
+ Through my experience and training at BCIT, I’ve developed a problem-solving mindset rooted in structure and speed. &lt;br>&lt;br>I thrive in environments where I can keep learning, contribute meaningfully, and work alongside people who care about doing things right. I’ve supported environments with 600+ users, managed everything from user management to delivering tech events and live streams. &lt;br>&lt;br>Whether I’m resolving a technical issue or helping someone feel more confident using their tools, my focus is always on providing thoughtful, reliable support — the kind of support I’d want to receive. I’m looking to grow with a team that values curiosity, communication, and the power of well-run systems
  &lt;/div>
  
  &lt;a href="https://www.google.com" target="_blank" class="btn btn-primary">
  &lt;i class="icon-user">&lt;/i>
- You can edit the text, link and icon
+ Download Resume
  &lt;/a>
  
  &lt;/div>
  &lt;/div>
  &lt;/div>
 &lt;/section>
+&lt;!-- imgSrc="images/about/user-picture.jpg" -->
 &lt;!-- 
 
 
